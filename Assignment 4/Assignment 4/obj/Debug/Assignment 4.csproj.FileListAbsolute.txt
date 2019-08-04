@@ -1,0 +1,6 @@
+C:\Users\alais\Desktop\School\C#\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe.config
+C:\Users\alais\Desktop\School\C#\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csprojResolveAssemblyReference.cache
+C:\Users\alais\Desktop\School\C#\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe
+C:\Users\alais\Desktop\School\C#\Assignment 4\Assignment 4\bin\Debug\Assignment 4.pdb
+C:\Users\alais\Desktop\School\C#\Assignment 4\Assignment 4\obj\Debug\Assignment 4.exe
+C:\Users\alais\Desktop\School\C#\Assignment 4\Assignment 4\obj\Debug\Assignment 4.pdb
